@@ -1,0 +1,1 @@
+var jetbrains = angular.module("jetbrains" )
